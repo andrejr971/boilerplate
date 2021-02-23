@@ -16,7 +16,7 @@ This project uses lot of stuff as:
 
 ## Clonning project
 ```bach
-yarn create next-app -e https://github.com/andrejr971/boilerplate <name-folder>
+yarn create next-app -e https://github.com/andrejr971/boilerplate <name-project>
 ```
 
 ## Getting Started
